@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1712511577 source:c:\bmtp-lab8-linnikova\prj\linnikova_task8.2\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<locale.h>
+
