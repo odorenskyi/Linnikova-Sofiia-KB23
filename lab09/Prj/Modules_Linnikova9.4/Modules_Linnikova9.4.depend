@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714052602 source:c:\users\ln\desktop\bmtp_lab9_linnikova\prj\modules_linnikova9.4\main.cpp
+	<iostream>
+	<conio.h>
+	<Windows.h>
+
