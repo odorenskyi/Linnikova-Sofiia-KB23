@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1715186895 source:c:\users\ln\desktop\bmtp_lab10_linnikova\prj\10.2\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+
